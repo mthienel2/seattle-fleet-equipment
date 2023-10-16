@@ -1,5 +1,5 @@
 # Seattle Fleet Equipment
-Using the [Sold Fleet Equipment](https://data.seattle.gov/City-Business/Sold-Fleet-Equipment/y6ef-jf2w) dataset provided by the City of Seattle, I created a number of visuals and a dashboard to visualize equipment sold, month-to-month revenue, and fleet equipment age when sold. For the visualization I used Tableau Desktop, and for analysis I used Microsoft Excel.
+Using the [Sold Fleet Equipment](https://data.seattle.gov/City-Business/Sold-Fleet-Equipment/y6ef-jf2w) dataset provided by the City of Seattle, I created a number of visuals and a dashboard to visualize equipment sold, month-to-month revenue, and fleet equipment age when sold. This dataset includes sales data for fleet equipment that had been sold in 2018-2022 by the City of Seattle. For the visualizations I used Tableau Desktop, and for analysis I used Microsoft Excel.
 
 If you'd like to interact with the visualizations and dashboard below, check out my [Tableau Public profile](https://public.tableau.com/app/profile/max.thienel/vizzes)
 
